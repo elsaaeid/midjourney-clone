@@ -32,7 +32,7 @@ git clone https://github.com/elsaaeid/midjourney-clone.git
 - Install Dependencies: Navigate to the project directory and install the required dependencies.
 
 ```bash
-cd midjourney-ai-image-generator
+cd midjourney-clone
 npm install
 ```
 
