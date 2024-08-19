@@ -24,6 +24,3 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 ## Acknowledgements
 - The project was inspired by Midjourney.
 - Special thanks to the developers and contributors of the open-source libraries and frameworks used in this project.
-
-## Contact
-If you have any questions or feedback, feel free to reach out to us at [plasmaharsh@outlook.com](mailto:plasmaharsh@outlook.com).
